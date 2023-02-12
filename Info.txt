@@ -1,4 +1,4 @@
 linia 1
-linia 2
+linia 2 B
 linia 3
 linia 4

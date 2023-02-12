@@ -22,7 +22,10 @@ git add .
 git commit -m "first"
 gii push
 
+            <git repository> <branch> 
+git push -u origin           master
 
+git push -u tw_test master
 
 
 
